@@ -1,7 +1,7 @@
 # 🏀 NBA Player Comparison App
 An interactive web app that lets users search and compare two NBA players side by side across key performance metrics. Built with **React.js**, it highlights the better stat in each category to provide instant visual analysis — perfect for basketball fans, analysts, and fantasy sports enthusiasts.
 
-<img src="./src/nba.png" width="800">
+<img src="./public/nba.png" width="700">
 
 ## 🚀 Features
 🔍 Live Search: Search for any two NBA players using partial or full names.
